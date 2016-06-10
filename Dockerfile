@@ -1,6 +1,6 @@
 FROM	ubuntu:14.04
 
-ENV GRAFANA_VERSION 1.9.1
+ENV GRAFANA_VERSION 3.0.4
 ENV INFLUXDB_VERSION 0.13.0
 
 # Prevent some error messages
